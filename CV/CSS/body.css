@@ -1,0 +1,27 @@
+@import url(https://fonts.google.com/specimen/Lato);
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 400;
+    src: url(FONT\raleway-light-webfont.woff) format('woff'),
+        url(FONT\raleway-light-webfont.woff2) format('woff2'),
+        url(FONT\raleway-bold-webfont.woff) format('woff'),
+        url(FONT\raleway-bold-webfont.woff2) format('woff2'),
+        url(FONT\raleway-lightitalic-webfont.woff) format('woff'),
+        url(FONT\raleway-lightitalic-webfont.woff2) format('woff2'),
+}
+
+body{    
+    font-family:'Raleway', sans-serif;
+    width: 1160px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap
+    
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', arial, helvet;
+}
+
