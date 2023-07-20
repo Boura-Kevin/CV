@@ -1,0 +1,23 @@
+header {
+    width: 100%;
+    background-color: #782221;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+    width: 100%;
+    padding: 3%;
+
+}
+
+
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px 5px white;
+}
+
+header img:hover{
+    cursor: zoom-in;
+}

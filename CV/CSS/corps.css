@@ -1,0 +1,19 @@
+.corps {
+    display: flex; 
+    width: 67.82%;
+    flex-direction: column;
+    padding: 2%;
+    border-right: 2px solid black;
+}
+
+.corps h3{
+    background-color: #dbc2a4 ;
+    border-left: 10px solid #782221;
+    color: black;
+    padding: 1%;
+    padding-left: 1%;
+}
+
+li:hover {
+    border-right: 5px solid #782221;
+}
